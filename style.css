@@ -1,0 +1,107 @@
+@charset "UTF-8";
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+    margin: auto;
+}
+main{
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+}
+nav {
+    text-align: right;
+    margin-top: 20px;
+   
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    
+}
+header {
+    margin-top: 30px;
+}
+header h1{
+    margin-bottom: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header input{
+   padding: 6px;
+   width: 300px;
+}
+header button{
+    display: flex;
+    margin: auto;
+    margin-top: 10px;
+    padding: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+article{
+    margin-top: 100px;
+  
+    
+   
+}
+#separar{
+    margin-left: 140px;
+    padding-left: 40px;
+    margin-bottom: 100px;
+         
+}
+.organiza{
+    margin-top: 20px;
+}
+.manobra{
+    max-width: 500px;
+    text-align:justify;
+       
+} 
+.posicao{
+  max-width: 80px;
+  max-height: 80px;
+  position: absolute;
+  left: 0;
+ margin-left: 250px;
+
+
+
+}
+
+  
+
+
+
+
+iframe{
+    margin-bottom: 40px;
+}
+ fieldset{
+    display: inline-block;
+    width: 50px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 20px;
+}
+ h3{
+    font-size: 1.4em;
+    background-color: rgba(0, 0, 0, 0.116);
+    
+    
+}
+.tamnaho{
+    font-size: 1.5em;
+}
+fieldset p{
+   width: 100px;
+   margin-top: 10px;
+   }
+fieldset button{
+    margin-top: 40px;
+    
+}
