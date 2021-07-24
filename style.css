@@ -40,6 +40,7 @@ header button{
     padding: 8px;
     padding-left: 40px;
     padding-right: 40px;
+    background-color: yellowgreen;
 }
 
 article{
@@ -68,40 +69,29 @@ article{
   position: absolute;
   left: 0;
  margin-left: 250px;
-
-
-
 }
-
-  
-
-
-
-
 iframe{
     margin-bottom: 40px;
 }
  fieldset{
     display: inline-block;
-    width: 50px;
-    padding-left: 60px;
-    padding-right: 60px;
     margin: 20px;
 }
  h3{
-    font-size: 1.4em;
+    font-size: 1.5em;
     background-color: rgba(0, 0, 0, 0.116);
-    
-    
+  
 }
 .tamnaho{
     font-size: 1.5em;
 }
-fieldset p{
-   width: 100px;
-   margin-top: 10px;
-   }
+.espaco {
+    width: 250px;
+    margin-top: 15px;
+}
+   
 fieldset button{
     margin-top: 40px;
+    background-color: yellowgreen;
     
 }
